@@ -4,7 +4,7 @@
 
   <groupId>com.maotai</groupId>
   <artifactId>testweb</artifactId>
-  <version>v1.0</version>
+  <version>v1.2</version>
   <packaging>jar</packaging>
 
   <name>testweb</name>
